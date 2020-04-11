@@ -1,21 +1,8 @@
 # HuCovid
 
-**TODO: Add description**
+Display official Hungarian Government data of Covid19 death data as JSON
 
-## Installation
+You can find a deployed instance on the following link:
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `hu_covid` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:hu_covid, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/hu_covid](https://hexdocs.pm/hu_covid).
+[https://hucovid.gigalixirapp.com/hu_data](https://hucovid.gigalixirapp.com/hu_data)
 
