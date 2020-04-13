@@ -12,6 +12,7 @@ defmodule HuCovid.Endpoint do
 
   get "/hu_data" do
     resp_body = HuCovid.get_data()
+
     conn
     |> put_resp_content_type("application/json")
     |> send_resp(200, resp_body)
